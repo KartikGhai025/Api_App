@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
                               padding: EdgeInsets.all(_w / 30),
                               width: double.infinity,
                               margin: EdgeInsets.only(bottom: _w / 20),
-                              height: _w / 3.5,
+                              height: _w / 3,
                               decoration: BoxDecoration(
                                 color: Colors.white,
                                 borderRadius:
